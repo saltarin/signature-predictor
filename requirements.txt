@@ -1,0 +1,11 @@
+kagglehub
+python-dotenv
+pydot
+matplotlib
+pandas
+numpy
+tensorflow
+scikit-learn
+joblib
+opencv-python
+mediapipe
