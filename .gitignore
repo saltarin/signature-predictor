@@ -301,3 +301,6 @@ pip-selfcheck.json
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python,virtualenv
 
 model/data/raw
+
+# macOS specific files
+**/.DS_Store
